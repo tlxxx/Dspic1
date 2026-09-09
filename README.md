@@ -44,4 +44,4 @@ Portions of the project are adapted from other repositories:
 - https://github.com/ALRhub/DIME is licensed under MIT.
 
 ### Contact Us
-If you have any questions, you can ask them on GitHub or send an email to [ghli04@smail.nju.edu.cn](ghli04@smail.nju.edu.cn). (Sending emails is recommended🤗.)
+If you have any questions, you can ask them on GitHub or send an email to [tlxtlx0016@gmail.com](tlxtlx0016@gmail.com). (Sending emails is recommended🤗.)
